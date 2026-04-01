@@ -1,1 +1,2 @@
-print("Python is a programming language")
+# This is introduction to Python
+print("Hello Python")
