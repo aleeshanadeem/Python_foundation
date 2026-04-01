@@ -1,0 +1,1 @@
+print("4 Data types in Python")
