@@ -54,8 +54,7 @@ I will continue updating this repository as I learn:
 ## 🌟 Author
 
 Aleesha Nadeem  
-Aspiring Data Scientist | Future AI Founder  
-
+Aspiring Data Scientist 
 ---
 
 ⭐ If you find this repository helpful, feel free to explore and connect!
